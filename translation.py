@@ -48,8 +48,8 @@ ABOUT_TEXT = """
     
 `📝 Language:` [Python 3](https://www.python.org/)
 `🧰 Framework:` [Pyrogram](https://github.com/pyrogram/pyrogram)
-`👨‍💻 Developer:` [BLASTER](t.me/BlasterOriginals)
-`📢 Support:` [Talk Bot](https://t.me/BlasterOriginals)
+`👨‍💻 Developer:` [BLASTER](t.me/Don_vijay)
+`📢 Support:` [Talk Bot](https://t.me/Don_vijay)
 `🌐 Source Code:` [Neeku Endhuku Ra]
 """
 
